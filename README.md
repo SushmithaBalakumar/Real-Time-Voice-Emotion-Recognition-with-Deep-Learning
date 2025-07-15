@@ -1,3 +1,7 @@
+Sushmitha
+AI & ML Intern – IIITDM Kancheepuram
+LinkedIn | GitHub
+
 # 🎙️ Real-Time Voice Emotion Recognition
 
 This project implements an end-to-end deep learning pipeline to recognize emotions from live voice input using Python and PyTorch. Built as part of my AI/ML internship at IIITDM Kancheepuram.
